@@ -6,7 +6,7 @@
 
 >npm install d3 and npm install @types/d3 --save-dev
 
->For more information go to - (https://blog.logrocket.com/data-visualization-angular-d3/)
+>For more information go to :point_right: (https://blog.logrocket.com/data-visualization-angular-d3/)
 
-## See my project output https://rakeshkumartiwari.github.io/d3-js-angular/
+## See my project output :point_right: https://rakeshkumartiwari.github.io/d3-js-angular/
 :relaxed:
